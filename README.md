@@ -1,6 +1,6 @@
 # SSRS Reports
 
-Generic SSRS reports for pentesters, full details at https://www.secarma.co.uk/labs/ssrs-attacks-part1-dynamic-data-extraction
+Generic SSRS reports for pentesters, full details at https://www.secarma.co.uk/labs/ssrs-attacks-part-1-dynamic-data-extraction
 
 ## Getting Started
 
